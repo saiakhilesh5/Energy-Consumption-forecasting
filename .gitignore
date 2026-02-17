@@ -88,9 +88,10 @@ venv.bak/
 *.pkl
 *.h5
 
-# Data files (uncomment if you don't want to track large data)
+# Data files (large files excluded from GitHub)
 # *.csv
 # *.txt
+household_power_consumption.txt
 
 # OS generated files
 .DS_Store
