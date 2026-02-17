@@ -168,19 +168,3 @@ sequence_length = 10
 - [UCI ML Repository - Energy Dataset](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
 
 ---
-
-## 👤 Author
-
-**Original Implementation**: Pawarit Laosunthara
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Made with ❤️ for Probabilistic Reasoning Course | Semester 5
-</p>
